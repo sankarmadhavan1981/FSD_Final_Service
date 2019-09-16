@@ -1,0 +1,1 @@
+mvn "-Djavax.net.ssl.trustStore=C:\Certificates\dxpCert.cer" clean install -Dmaven.test.skip=true
