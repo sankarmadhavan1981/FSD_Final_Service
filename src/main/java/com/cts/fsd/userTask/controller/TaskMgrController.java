@@ -17,6 +17,7 @@ import java.time.LocalDateTime;
 import java.util.List;
 
 @RestController
+@CrossOrigin(origins = "http://localhost:4200")
 @RequestMapping("/taskMgr")
 public class TaskMgrController {
 
