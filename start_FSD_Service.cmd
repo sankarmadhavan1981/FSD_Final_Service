@@ -1,1 +1,1 @@
-call mvn spring-boot:run
+call mvn spring-boot:run &
